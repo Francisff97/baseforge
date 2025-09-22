@@ -7,7 +7,7 @@
     "name": "Francesco Design",
     "role": "Graphic Designer & Developer",
     "avatar_url": "https://raw.githubusercontent.com/Francisff97/baseforge/main/image/FD.jpg",
-    "discord": "https://discord.gg/yourserver",
+    "discord": "https://discord.gg/VqDp2SPM6N",
     "twitter": "https://x.com/Fdesign97",
     "email": "mailto:info@francescoferri.me"
   },
@@ -19,7 +19,7 @@
       "price_eur": 20,
       "image": "https://raw.githubusercontent.com/Francisff97/baseforge/main/image/e-template.png",
       "cta_label": "Get the add-on",
-      "cta_url": "https://discord.gg/server"
+      "cta_url": "https://discord.gg/VqDp2SPM6N"
     },
     {
       "key": "email-manager",
@@ -28,7 +28,7 @@
       "price_eur": 29,
       "image": "https://raw.githubusercontent.com/Francisff97/baseforge/main/image/e-manager.png",
       "cta_label": "Get the add-on",
-      "cta_url": "https://discord.gg/addons/email-manager"
+      "cta_url": "https://discord.gg/VqDp2SPM6N"
     },
     {
       "key": "discord-integration",
@@ -37,7 +37,7 @@
       "price_eur": 40,
       "image": "https://raw.githubusercontent.com/Francisff97/baseforge/main/image/ds.png",
       "cta_label": "Get the add-on",
-      "cta_url": "https://discord.gg/addons/discord"
+      "cta_url": "https://discord.gg/VqDp2SPM6N"
     }
   ]
 }

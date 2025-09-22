@@ -8,8 +8,8 @@
     "role": "Graphic Designer & Developer",
     "avatar_url": "https://example.com/avatar.png",
     "discord": "https://discord.gg/yourserver",
-    "twitter": "https://x.com/yourhandle",
-    "email": "mailto:you@example.com"
+    "twitter": "https://x.com/Fdesign97",
+    "email": "mailto:info@francescoferri.me"
   },
   "addons": [
     {
@@ -19,7 +19,7 @@
       "price_eur": 20,
       "image": "https://example.com/addons/email-templates.png",
       "cta_label": "Get the add-on",
-      "cta_url": "https://your-site.com/addons/email-templates"
+      "cta_url": "https://discord.gg/server"
     },
     {
       "key": "email-manager",

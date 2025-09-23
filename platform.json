@@ -22,11 +22,11 @@
       "cta_url": "https://discord.gg/VqDp2SPM6N"
     },
     {
-      "key": "email-manager",
-      "title": "Email manager",
-      "subtitle": "Read & manage contact requests inside the admin.",
-      "price_eur": 29,
-      "image": "https://raw.githubusercontent.com/Francisff97/baseforge/main/image/e-manage.png",
+      "key": "youtube-video",
+      "title": "Youtube Video",
+      "subtitle": "Upload video tutorials into packs and coaches.",
+      "price_eur": 25,
+      "image": "https://raw.githubusercontent.com/Francisff97/baseforge/main/image/yt.png",
       "cta_label": "Get the add-on",
       "cta_url": "https://discord.gg/VqDp2SPM6N"
     },
